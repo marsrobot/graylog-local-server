@@ -14,7 +14,7 @@
 
 # Cons of Graylog
 - Not as fancy as ELK.
-- Suitable for medium sized team to use.
+- Only suitable for medium sized team to use.
 
 # Server setup
 - Go to deployment/docker/graylog-server
